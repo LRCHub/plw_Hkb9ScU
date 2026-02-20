@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヤミタイガール",
+  "base_artist": "センラ×りぶ",
+  "createdAt": "2026-02-20T02:22:09.050648Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヤミタイガール",
+      "artist": "センラ×りぶ",
+      "has_synced": false,
+      "path": "select/pl_01_ヤミタイガール_センラ×りぶ.txt"
+    }
+  ]
+}
